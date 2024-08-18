@@ -1,1 +1,4 @@
 type userinit_prop, property_type;
+
+# PIHooks
+system_public_prop(pih_disable_prop)
